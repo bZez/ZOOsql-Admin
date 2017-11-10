@@ -1,0 +1,24 @@
+label {
+	display: block;
+	margin: 5px 0;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+td,
+th {
+	padding: 5px;
+	border-bottom: 1px solid #aaa;
+}
+.blockdroit {
+	float:left;
+}
+.blockgauche {
+	float:right;
+margin:50%;
+}
+
+.right {position:absolute;right:1%;top:0;}
